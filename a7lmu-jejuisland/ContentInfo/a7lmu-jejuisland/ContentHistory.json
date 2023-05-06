@@ -1,0 +1,60 @@
+{
+  "package-name": "a7lmu-jejuisland",
+  "items": [
+    {
+      "type": "Poi",
+      "content": "{97BE0FF2-A1C8-4159-A14F-B9AE305BBC6D}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{EDD2E6A7-7C50-496B-AEDF-61A426DECA48}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{F1EA389B-7D9D-4994-8604-C1D277C42504}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{5BA233DC-7BE4-4903-B77D-B2D8FF558AA4}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{A35F99D5-6E0D-4B9D-BBB5-0051FDBC3CFA}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{664654ED-2F93-4C13-9B94-F5DFCE6E7550}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{8D0DCD0D-CFB3-4CCD-A0DA-A80E919FD56B}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{AB41854D-FF98-4E1E-93F2-AC296DF5210D}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{4800C007-D9D1-470E-8FBD-192C21B1711A}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{14EB19F5-8436-4732-8D1F-5283A5EC0079}",
+      "revision": 1
+    },
+    {
+      "type": "Airport",
+      "content": "RK9E",
+      "revision": 1
+    }
+  ]
+}

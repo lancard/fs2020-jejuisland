@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "SCENERY",
+  "title": "Jeju-do",
+  "manufacturer": "",
+  "creator": "Lee Min-su",
+  "package_version": "0.3.0",
+  "minimum_game_version": "1.30.7",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
